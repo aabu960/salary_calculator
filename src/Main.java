@@ -38,7 +38,7 @@ Gross_salary = (hourly_rate * worked_hour) + bonus;
 
       }else {
           Gross_salary = (hourly_rate * worked_hour) ;
-          System.out.println("*******************************************");
+          System.out.println("******************************************");
 
 
           System.out.println("Gross Salary is : " + Gross_salary);
